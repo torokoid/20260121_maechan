@@ -215,15 +215,15 @@ p.note { display: none; }
 
 <h2><span class="yellow">これもググったら、キンレイジュというお花でした</span></h2>
 <a href="20260121_017.JPG" target="_blank"><img src="20260121_017.JPG" alt="サンプル画像" class="responsive-media"></a>
-
-<h2><span class="yellow">国道沿いですが、道を外れると広大な農業エリア</span></h2>
 <a href="20260121_018.JPG" target="_blank"><img src="20260121_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">畑の脇にはおしゃれなお家</span></h2>
+<h2><span class="yellow">国道沿いですが、道を外れると広大な農業エリア</span></h2>
 <a href="20260121_019.JPG" target="_blank"><img src="20260121_019.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ちょっとした雑草ですが、綺麗なお花を咲かせています</span></h2>
+<h2><span class="yellow">畑の脇にはおしゃれなお家</span></h2>
 <a href="20260121_020.JPG" target="_blank"><img src="20260121_020.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">ちょっとした雑草ですが、綺麗なお花を咲かせています</span></h2>
 <a href="20260121_021.JPG" target="_blank"><img src="20260121_021.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">親戚のおばあちゃん、100歳でもお元気！</span></h2>
