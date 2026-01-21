@@ -290,7 +290,7 @@ p.note { display: none; }
 <a href="20260121_044.JPG" target="_blank"><img src="20260121_044.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260121_045.JPG" target="_blank"><img src="20260121_045.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">いきが良いナマズが桶から飛び出しましたが、即座に木槌で叩き殺されてました</span></h2>
+<h2><span class="yellow">生きが良いナマズが桶から飛び出しましたが、即座に木槌で叩き殺されてました</span></h2>
 <a href="20260121_046.JPG" target="_blank"><img src="20260121_046.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260121_047.JPG" target="_blank"><img src="20260121_047.JPG" alt="サンプル画像" class="responsive-media"></a>
 
@@ -341,7 +341,7 @@ p.note { display: none; }
 <h2><span class="yellow">三日月ですね</span></h2>
 <a href="20260121_068.JPG" target="_blank"><img src="20260121_068.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">火が暮れると、よりはっきりして来ました</span></h2>
+<h2><span class="yellow">日が暮れると、よりはっきりして来ました</span></h2>
 <a href="20260121_069.JPG" target="_blank"><img src="20260121_069.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260121_070.JPG" target="_blank"><img src="20260121_070.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260121_071.JPG" target="_blank"><img src="20260121_071.JPG" alt="サンプル画像" class="responsive-media"></a>
