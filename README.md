@@ -350,7 +350,7 @@ p.note { display: none; }
 <a href="20260121_072.JPG" target="_blank"><img src="20260121_072.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">「地球照」はちょっとマニアックなので説明リンク貼りますね</span></h2>
-<a href="https://astro-dic.jp/earthshine/" target="_blank">地球照説明リンク</a>
+<h2><a href="https://astro-dic.jp/earthshine/" target="_blank">地球照説明リンク</a></h2>
 
 
 
